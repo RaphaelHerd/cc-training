@@ -1,0 +1,22 @@
+[
+  {
+    "patient_id": "p001",
+    "when": "2025-10-30T10:30:00",
+    "reason": "Erstvorstellung"
+  },
+  {
+    "patient_id": "p002",
+    "when": "2025-10-31T15:00:00",
+    "reason": "Nachkontrolle"
+  },
+  {
+    "patient_id": "p003",
+    "when": "2025-10-29T09:00:00",
+    "reason": "Psychologische Nachsorge"
+  },
+  {
+    "patient_id": "p004",
+    "when": "2025-11-01T08:00:00",
+    "reason": "Medikamenten-Review"
+  }
+]
